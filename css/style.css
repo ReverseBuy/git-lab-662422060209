@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  max-width: 640px;
+  margin: 40px auto;
+  padding: 0 16px;
+  line-height: 1.7;
+}
+header {
+  border-bottom: 2px solid #333;
+  padding-bottom: 12px;
+}
+h1 { color: #1d4ed8; }
+body.dark {
+  background: #14181c;
+  color: #e6eae4;
+}
